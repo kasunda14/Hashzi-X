@@ -86,7 +86,7 @@
 
 #### Termux මඟින් ලබාගන්න
 ```
-bash <(curl -L https://tinyurl.com/ALEXA-session) 
+bash <(curl -L https://xneon2/Hashzi-X
 ```
 ##### ඉහත කේතය Copy කරගෙන termux එකෙ paste කරලා Run කරන්න.
 
